@@ -1,4 +1,4 @@
-# 🚢🔍 ¡Desafío del Titanic: Descubre los Supervivientes! 🔍🚢
+# 🚢 ¡Desafío del Titanic: Descubre los Supervivientes! 🚢
 ## Introducción
 ¡Bienvenidos a bordo del RMS Titanic! En este emocionante proyecto, nos convertimos en detectives históricos para desentrañar el misterio de la supervivencia en uno de los naufragios más famosos de la historia. Utilizando técnicas de Machine Learning y un toque de creatividad, analizaremos datos y descubriremos los patrones que determinaron quién abordó los botes salvavidas.
 
